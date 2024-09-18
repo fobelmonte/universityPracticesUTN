@@ -18,8 +18,8 @@ C:
 
 C#
 --
-1-Variables
-2-Funciones
-3-Estructuras de control condicionales
-4-Estructuras de control repetitivas
-5-Arrays (vectores y matrices)
+1-Variables  
+2-Funciones  
+3-Estructuras de control condicionales  
+4-Estructuras de control repetitivas  
+5-Arrays (vectores y matrices)  
