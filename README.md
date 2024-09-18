@@ -9,7 +9,7 @@ Programming language and content:
 
 Programming 1 / Programacion 1
 -------------------------------
-C:
+C
 --
 -TP1: Functions / Funciones
 -TP2: Pointers / Punteros
