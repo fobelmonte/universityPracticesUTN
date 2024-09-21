@@ -1,4 +1,4 @@
-# GameDevelopmentUTN - Desarrollo Videojuegos (Programacion) UTN
+# GameDevelopmentUTN - Desarrollo Videojuegos UTN
 
 This folder contains the code developed during my practices at the university (UTN)
 
