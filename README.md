@@ -1,12 +1,12 @@
 🎮# GameDevelopmentUTN - Desarrollo Videojuegos UTN
 __________________
-ENGLISH VERSION:
+ENGLISH VERSION:  
 📂This folder contains the code developed during my practices at the university (UTN)
 
 🇪🇸They are developed in spanish.
 
 ---------------------------------
-VERSIÓN EN ESPAÑOL:
+VERSIÓN EN ESPAÑOL:  
 📂Este repositorio contiene todos los trabajos prácticos que realicé durante el transcurso de la universidad (UTN)
 
 🇪🇸Todos fueron desarrollados en idioma español.
