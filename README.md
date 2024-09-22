@@ -1,4 +1,4 @@
-🎮# GameDevelopmentUTN - Desarrollo Videojuegos UTN
+🎮 GameDevelopmentUTN - Desarrollo Videojuegos UTN
 __________________
 ENGLISH VERSION:  
 📂This folder contains the code developed during my practices at the university (UTN)
