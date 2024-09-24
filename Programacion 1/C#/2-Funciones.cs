@@ -1,4 +1,4 @@
-﻿//CLASE 4 - FUNCIONES
+﻿//CLASE 4 - Funciones
 //EJERCICIO 1 Un sistema que solicite el ingreso del nombre del personaje. Luego, el sistema debe mostrar la inicial del nombre ingresado. Por lo tanto, si se ingresa el nombre “Juan” el sistema debe mostrar la letra “J”.
 
 Console.WriteLine("PRIMERA LETRA PERSONAJE");
