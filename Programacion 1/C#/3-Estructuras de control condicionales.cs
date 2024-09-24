@@ -1,4 +1,4 @@
-﻿//CLASE 5
+﻿//CLASE 5 - Estructuras de control condicionales
 
 int seleccion = 0;
 
