@@ -20,10 +20,10 @@ Programming 1 / Programacion 1
 -------------------------------
 C
 --
--TP1: Functions / Funciones  
--TP2: Pointers / Punteros  
--TP3: Arrays  / Arreglos (Vectores)  
--TP4: Arrays (Matrix) / Arreglos(Matrices)  
+1-Functions / Funciones  
+2-Pointers / Punteros  
+3-Arrays  / Arreglos (Vectores)  
+4-Arrays (Matrix) / Arreglos(Matrices)  
 
 C#
 --
