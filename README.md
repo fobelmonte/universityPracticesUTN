@@ -22,7 +22,7 @@ C
 --
 1-Functions / Funciones  
 2-Pointers / Punteros  
-3-Arrays  / Arreglos (Vectores)  
+3-Arrays  / Arreglos (Unidimensionales)  
 4-Arrays (Matrix) / Arreglos(Matrices)  
 
 C#
