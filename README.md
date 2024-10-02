@@ -22,8 +22,8 @@ C
 --
 1-Functions / Funciones  
 2-Pointers / Punteros  
-3-Arrays  / Arreglos (Unidimensionales)  
-4-Arrays (Matrix) / Arreglos(Matrices)  
+3-Arrays  / Arreglos (Unidimensionales-Vectores)  
+4-Arrays (Matrix) / Arreglos(Multidimensionales-Matrices)  
 
 C#
 --
